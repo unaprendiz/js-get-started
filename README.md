@@ -22,6 +22,7 @@ Por cada clase existe un tag "inicial" con el estado esperado al inicio de la cl
 [Clase 9: Comunicacion entre Componentes](md/clase9-comunicacion.md)
 
 -- Posibles temas a agregar:
+
 [Queries genéricos en backend](md/queries-backend.md)
 
 [Login (Auth) externo](md/login-externo.md)
